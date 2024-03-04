@@ -1,0 +1,35 @@
+body {
+  margin: 1rem auto;
+  padding: 3rem;
+  font-family: sans-serif;
+}
+
+header {
+  width: 70%;
+  margin: 1em auto;
+}
+
+main {
+  max-width: 70%;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+}
+
+#image-frame {
+  font-size: x-large;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.btn {
+  border: none;
+  width: 80px;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
