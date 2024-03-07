@@ -1,4 +1,4 @@
-const PIC_URL = "https://api.waifu.pics/nsfw/blowjob";
+const PIC_URL = "https://api.waifu.pics/nsfw/waifu";
 const moreBtn = document.querySelector("#more-btn");
 
 moreBtn.addEventListener("click", handleBtn);
